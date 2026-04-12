@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Renton, Washington with a population of over 106k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Renton, Washington, US",
+  "export_job_id": "e7178d98-088b-4b4c-8b2e-31bea6d51944",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 413326,
+  "location_name": "Renton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-renton-washington-us-sample-413326",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/413326/beamstation_413326_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.75,
+  "sample_records": 27,
+  "sample_sha256": "f9605d6050b80693da89d88a1cb8c9e5b78c9d7339418ebd734a35507aa83eb9",
+  "sample_size_bytes": 118085,
+  "total_records": 277,
+  "updated_at": "2026-04-07T11:30:17.771451+00:00"
+}
