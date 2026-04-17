@@ -9,9 +9,9 @@
 | Dataset ID | `413326` |
 | Location | Renton |
 | Category | Restaurants |
-| Full dataset size | 277 records |
-| Free sample size | 27 records (9.75%) |
-| Last export | 2026-04-07T11:30:17.771451+00:00 |
+| Full dataset size | 270 records |
+| Free sample size | 27 records (10.0%) |
+| Last export | 2026-04-14T11:27:17.648129+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-renton-washington-us-sample-413326/releases/download/sample-latest/beamstation_413326_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
