@@ -1,12 +1,12 @@
 {
-  "export_job_id": "354b8432-734e-49d7-bbaa-f84705b7ace3",
+  "export_job_id": "7c850058-002c-4520-8bf1-b4ead5fe61c5",
   "id_short": 413326,
-  "published_at": "2026-04-21T19:23:12Z",
+  "published_at": "2026-04-28T19:43:50Z",
   "repo_name": "all-restaurants-in-renton-washington-us-sample-413326",
   "sample_asset_name": "beamstation_413326_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/413326/beamstation_413326_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "c09cdd8a455de5da7c2ba101d83f27d2df09c0a6deac35c9c529b1c80e738f79",
-  "sample_size_bytes": 109405,
-  "total_records": 267
+  "sample_records": 28,
+  "sample_sha256": "1c9427af835b63ba80170d40bade4ac3b9ae3998c61ba0765d8e7aefdad77e1a",
+  "sample_size_bytes": 109640,
+  "total_records": 287
 }
