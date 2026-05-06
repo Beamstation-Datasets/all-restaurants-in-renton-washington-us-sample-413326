@@ -1,6 +1,6 @@
 # All Restaurants in Renton, Washington, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `413326` |
 | Location | Renton |
 | Category | Restaurants |
-| Full dataset size | 287 records |
-| Free sample size | 28 records (9.76%) |
-| Last export | 2026-04-28T12:40:10.388128+00:00 |
+| Full dataset size | 309 records |
+| Free sample size | 30 records (9.71%) |
+| Last export | 2026-05-05T21:03:48.565858+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-renton-washington-us-sample-413326/releases/download/sample-latest/beamstation_413326_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
